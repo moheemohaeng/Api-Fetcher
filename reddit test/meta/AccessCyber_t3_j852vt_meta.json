@@ -1,0 +1,23 @@
+{
+          "python_version": "Python 3.10.2",
+          "praw_version": "7.5.0",
+          "client_id": "aD4mb7E2SBstq9l8HgvfLg",
+          "client_secret": "lKqkCVN3NtSyyyBK3YZQHpLKoBP-wQ",
+          "user_agent": "moheetest",
+          "subreddit_id": "2nwm1t",
+          "subreddit_display_name": "AccessCyber",
+          "subreddit_name": "t5_2nwm1t",
+          "subreddit_description": "A",
+          "subreddit_created_utc(unix)": 1589498169.0,
+          "submission_id": "j852vt",
+          "submission_name": "t3_j852vt",
+          "submission_title": "‘Hacking Apple’: 3 Months, 5 Hackers… $288,500",
+          "submission_author_id": "5db74jo2",
+          "submission_author_name": "AccessCyber",
+          "submission_author_created_utc(unix)": 1586730284.0,
+          "submission_self_text": "",
+          "submission_score": 2,
+          "submission_created_utc(unix)": 1602270166.0,
+          "submission_permalink": "/r/AccessCyber/comments/j852vt/hacking_apple_3_months_5_hackers_288500/",
+          "submission_url": "https://www.accesscyber.org/hacking-apple-3-months-5-hackers-288500/"
+}
