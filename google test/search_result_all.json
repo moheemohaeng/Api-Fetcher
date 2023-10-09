@@ -1,0 +1,406 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Python Google Custom Search",
+                "totalResults": "103000",
+                "searchTerms": "Python Google Custom Search",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "836130e7b9cf5e1fe"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Python Google Custom Search",
+                "totalResults": "103000",
+                "searchTerms": "Python Google Custom Search",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "836130e7b9cf5e1fe"
+            }
+        ]
+    },
+    "context": {
+        "title": "Google"
+    },
+    "searchInformation": {
+        "searchTime": 0.498686,
+        "formattedSearchTime": "0.50",
+        "totalResults": "103000",
+        "formattedTotalResults": "103,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "7.4 - Request Format",
+            "htmlTitle": "7.4 - Request Format",
+            "link": "https://www.google.com/support/enterprise/static/gsa/docs/admin/current/gsa_doc_set/xml_reference/request_format.html",
+            "displayLink": "www.google.com",
+            "snippet": "The information in this section helps you create custom searches for your web site. ... The Google search request is a standard HTTP GET or POST command, ...",
+            "htmlSnippet": "The information in this section helps you create <b>custom searches</b> for your web site. ... The <b>Google search</b> request is a standard HTTP GET or POST command,&nbsp;...",
+            "cacheId": "2LU9xMi4GGoJ",
+            "formattedUrl": "https://www.google.com/support/enterprise/.../request_format.html",
+            "htmlFormattedUrl": "https://www.<b>google</b>.com/support/enterprise/.../request_format.html"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "7.4 - Getting the Most from Your Google Search Appliance",
+            "htmlTitle": "7.4 - Getting the Most from Your <b>Google Search</b> Appliance",
+            "link": "https://www.google.com/support/enterprise/static/gsa/docs/admin/current/gsa_doc_set/quick_start/quick_start.pdf",
+            "displayLink": "www.google.com",
+            "snippet": "Configuring Search Appliances for Load Balancing or Failover ... You can also create a custom connector for the Google Search Appliance, as described in “ ...",
+            "htmlSnippet": "Configuring <b>Search</b> Appliances for Load Balancing or Failover ... You can also create a <b>custom</b> connector for the <b>Google Search</b> Appliance, as described in “&nbsp;...",
+            "cacheId": "oDVKuDy6RAUJ",
+            "formattedUrl": "https://www.google.com/support/enterprise/static/.../quick_start.pdf",
+            "htmlFormattedUrl": "https://www.<b>google</b>.com/support/enterprise/static/.../quick_start.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2bxin3eqggO76gMb0CT8ULGWgQ2H1sYW7q3C29GIQY81sgVATpA-IhmF",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20151013141543-07'00'",
+                        "creationdate": "D:20151013092157-07'00'",
+                        "producer": "iTextSharp 4.1.6 by 1T3XT",
+                        "title": "7.4 - Getting the Most from Your Google Search Appliance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///ff2a91905ae3d0ccee393b013a02ed3aba582fd0625586695fa8f98d1dcfb8f6"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Google Sheets: Free Online Spreadsheet Editor | Google Workspace",
+            "htmlTitle": "<b>Google</b> Sheets: Free Online Spreadsheet Editor | <b>Google</b> Workspace",
+            "link": "https://www.google.com/sheets/about/",
+            "displayLink": "www.google.com",
+            "snippet": "Use Google Sheets to create and edit online spreadsheets. Get insights together with ... Or add custom functions, menu items, and macros with Apps Script.",
+            "htmlSnippet": "Use <b>Google</b> Sheets to create and edit online spreadsheets. Get insights together with ... Or add <b>custom</b> functions, menu items, and macros with Apps Script.",
+            "cacheId": "95sduKEJz2gJ",
+            "formattedUrl": "https://www.google.com/sheets/about/",
+            "htmlFormattedUrl": "https://www.<b>google</b>.com/sheets/about/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz1uFxDdp8Pq7Z6ADMb5Sb2C6sHR-6DtEk5bQSY8ulTSH5p_pNLFMUmQ",
+                        "width": "36",
+                        "height": "36"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "no-referrer",
+                        "og:image": "https://kstatic.googleusercontent.com/files/adf55cdf4c7f8fb38efbf8df6c2792660fbeff2d05be05f2ec8e9c265a179b51c64b9679d8aee00e09cad19ce419d90a2d999b82cea4200abbe78c73e6bfaacf",
+                        "twitter:title": "Google Sheets: Free Online Spreadsheet Editor | Google Workspace",
+                        "og:type": "website",
+                        "viewport": "initial-scale=1, minimum-scale=1, width=device-width",
+                        "twitter:url": "https://twitter.com/googledocs",
+                        "twitter:description": "Use Google Sheets to create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.",
+                        "og:title": "Google Sheets: Free Online Spreadsheet Editor | Google Workspace",
+                        "og:url": "https://www.facebook.com/GoogleDocs/",
+                        "twitter:creator": "Google",
+                        "og:description": "Use Google Sheets to create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.",
+                        "twitter:image": "https://kstatic.googleusercontent.com/files/adf55cdf4c7f8fb38efbf8df6c2792660fbeff2d05be05f2ec8e9c265a179b51c64b9679d8aee00e09cad19ce419d90a2d999b82cea4200abbe78c73e6bfaacf"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://kstatic.googleusercontent.com/files/adf55cdf4c7f8fb38efbf8df6c2792660fbeff2d05be05f2ec8e9c265a179b51c64b9679d8aee00e09cad19ce419d90a2d999b82cea4200abbe78c73e6bfaacf"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Newest Questions - Stack Overflow",
+            "htmlTitle": "Newest Questions - Stack Overflow",
+            "link": "http://www.google.com/appserve/mkt/p/AFnwnKVW8Ov2h0yFzGQYWDHZ4CxauYc72aE3poSobduKvleBuVT29fNVOEpb_D9ZMqqTUAAYnOnJQGgBL5Kv2h_2vFG_69di",
+            "displayLink": "www.google.com",
+            "snippet": "I am trying to exclude referral traffic within Google Analytics from a ... I can't get how to do it. so, Does IfcOpenShell-python have show/hide function?",
+            "htmlSnippet": "I am trying to exclude referral traffic within <b>Google</b> Analytics from a ... I can&#39;t get how to do it. so, Does IfcOpenShell-<b>python</b> have show/hide function?",
+            "cacheId": "vGOvDTSq2k8J",
+            "formattedUrl": "www.google.com/.../ AFnwnKVW8Ov2h0yFzGQYWDHZ4CxauYc72aE3poSobduKvleBuVT29...",
+            "htmlFormattedUrl": "www.<b>google</b>.com/.../ AFnwnKVW8Ov2h0yFzGQYWDHZ4CxauYc72aE3poSobduKvleBuVT29...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYl7zuT3cw_BBRAyhdQEbQuBgqdNHXKHIYKL8S8ly8x9L_XA9sdwSmiHs",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "Newest Questions",
+                        "og:site_name": "Stack Overflow",
+                        "twitter:domain": "stackoverflow.com",
+                        "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
+                        "twitter:description": "Stack Overflow | The World’s Largest Online Community for Developers",
+                        "og:url": "https://stackoverflow.com/questions"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Retail Solutions & E-Commerce Tools - Google for Retail",
+            "htmlTitle": "Retail Solutions &amp; E-Commerce Tools - <b>Google</b> for Retail",
+            "link": "https://www.google.com/retail/solutions/",
+            "displayLink": "www.google.com",
+            "snippet": "Make the most of your online marketing efforts with Google advertising ... Display campaigns with the ability to choose your audiences (\"custom audiences\"), ...",
+            "htmlSnippet": "Make the most of your online marketing efforts with <b>Google</b> advertising ... Display campaigns with the ability to choose your audiences (&quot;<b>custom</b> audiences&quot;),&nbsp;...",
+            "cacheId": "zLsHyJMhupEJ",
+            "formattedUrl": "https://www.google.com/retail/solutions/",
+            "htmlFormattedUrl": "https://www.<b>google</b>.com/retail/solutions/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS38g7Z1wdKYsr4JpkZnuEoqGsPYiIWU5xijzCMqSxS3nioKFs7fp-Z",
+                        "width": "100",
+                        "height": "101"
+                    }
+                ],
+                "service": [
+                    {
+                        "name": "Google for Retail"
+                    }
+                ],
+                "organization": [
+                    {
+                        "sameas": "https://www.blog.google/products/ads/"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "no-referrer",
+                        "viewport": "initial-scale=1, minimum-scale=1, width=device-width",
+                        "optimize_experiments": "[{'name': 'GmbSignUpExperiment', 'experiment_id': 'NmnpOqL0QliNV653gfh9PA', 'signature': 'sha256-5b263ffa8f896c5185d6cfa2ed87cd2deed2e2d3e17a1c9545e303fde12667e0'}]",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lh3.googleusercontent.com/xhezKookuS5lnyqRdN8aHEjI_fGRQvbbpdy3tf_EzyF_lu3fm-dLuhgg7_6KTLH5ZIiuKOFrUMzq7n88v3ptjDNUHVTVbtQB1fYnyw=w100"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Google Merchant Center - Services to Promote Your Products",
+            "htmlTitle": "<b>Google</b> Merchant Center - Services to Promote Your Products",
+            "link": "https://www.google.com/retail/solutions/merchant-center/",
+            "displayLink": "www.google.com",
+            "snippet": "Help customers find your products for free with Google Merchant Center solutions. Promote your products across Search, Shopping, YouTube and the web.",
+            "htmlSnippet": "Help customers find your products for free with <b>Google</b> Merchant Center solutions. Promote your products across <b>Search</b>, Shopping, YouTube and the web.",
+            "cacheId": "2FJnWGN7dakJ",
+            "formattedUrl": "https://www.google.com/retail/solutions/merchant-center/",
+            "htmlFormattedUrl": "https://www.<b>google</b>.com/retail/solutions/merchant-center/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShq9aqK83_LZVzCaHPvbTvEiHW-WISb54IJwtgy_GXFwOuX6YZGRdy85pO",
+                        "width": "322",
+                        "height": "156"
+                    }
+                ],
+                "service": [
+                    {
+                        "name": "Google for Retail"
+                    }
+                ],
+                "organization": [
+                    {
+                        "sameas": "https://www.blog.google/products/ads/"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "no-referrer",
+                        "viewport": "initial-scale=1, minimum-scale=1, width=device-width",
+                        "optimize_experiments": "[{'name': 'GmbSignUpExperiment', 'experiment_id': 'NmnpOqL0QliNV653gfh9PA', 'signature': 'sha256-5b263ffa8f896c5185d6cfa2ed87cd2deed2e2d3e17a1c9545e303fde12667e0'}]",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lh3.googleusercontent.com/p69scQdUBA87YNqmzWCHkZP3seJhewNatJLWAaz7E_RVGFy9E9w_VTyjjsxJizWxe5E_eWfP49OPU6nV1EexEDsUaKnOwQui1-fBhueSQqqX3ZEREg=w1127"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mapping from a Google Spreadsheet – Google Earth Outreach",
+            "htmlTitle": "Mapping from a <b>Google</b> Spreadsheet – <b>Google</b> Earth Outreach",
+            "link": "https://www.google.com/earth/outreach/learn/mapping-from-a-google-spreadsheet/",
+            "displayLink": "www.google.com",
+            "snippet": "How to create your own layer of placemarks for Google Earth and Maps using Google Spreadsheets to generate the KML.",
+            "htmlSnippet": "How to create your own layer of placemarks for <b>Google</b> Earth and Maps using <b>Google</b> Spreadsheets to generate the KML.",
+            "cacheId": "7G16fZpKC54J",
+            "formattedUrl": "https://www.google.com/earth/.../mapping-from-a-google-spreadsheet/",
+            "htmlFormattedUrl": "https://www.<b>google</b>.com/earth/.../mapping-from-a-<b>google</b>-spreadsheet/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Mapping from a Google Spreadsheet",
+                        "og:url": "https://www.google.com/earth/outreach/learn/mapping-from-a-google-spreadsheet/",
+                        "og:description": "How to create your own layer of placemarks for Google Earth and Maps using Google Spreadsheets to generate the KML."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Android Jetpack | Android Developers",
+            "htmlTitle": "Android Jetpack | Android Developers",
+            "link": "https://www.google.com/appserve/mkt/proof/p/AD-FnExoIg_RSO0dnOgCLuuA9HuzIpPEym2-urnkv2z9UzoxchagPoXl-MgXXh7jhmmAYfVPpYJmyOsUtOPpCLz2JcydH4ab2Sv4OPcOPbOQvXIaCgLyqC50ztfY960JtjzzuMSHfABfY9oj4A8?disableTrackingProofPage=true",
+            "displayLink": "www.google.com",
+            "snippet": "Build custom in-app search capabilities for your users. camera *, Build mobile camera apps. compose *, Define your UI programmatically with composable functions ...",
+            "htmlSnippet": "Build <b>custom</b> in-app <b>search</b> capabilities for your users. camera *, Build mobile camera apps. compose *, Define your UI programmatically with composable functions&nbsp;...",
+            "cacheId": "UEiNUNR7qGEJ",
+            "formattedUrl": "https://www.google.com/.../AD-FnExoIg_RSO0dnOgCLuuA9HuzIpPEym2- urnkv2z9UzoxchagPoXl- ...",
+            "htmlFormattedUrl": "https://www.<b>google</b>.com/.../AD-FnExoIg_RSO0dnOgCLuuA9HuzIpPEym2- urnkv2z9UzoxchagPoXl- ...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIiyuDULJELWS4EckDT_NkpCNM8Q6P_8ye5QbltHzulEvkPJbJPmpxmHzl",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://developer.android.com/images/social/android-developers.png",
+                        "og:type": "website",
+                        "theme-color": "#3ddc84",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "google-signin-client-id": "721724668570-nbkv1cfusk7kk4eni4pjvepaus73b13t.apps.googleusercontent.com",
+                        "og:site_name": "Android Developers",
+                        "og:title": "Android Jetpack  |  Android Developers",
+                        "og:image:height": "675",
+                        "og:description": "Jetpack is a suite of libraries to help developers follow best practices, reduce boilerplate code, and write code that works consistently across Android versions and devices so that developers can focus on the code they care about.",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en",
+                        "google-signin-scope": "profile email https://www.googleapis.com/auth/developerprofiles https://www.googleapis.com/auth/developerprofiles.award",
+                        "og:url": "https://developer.android.com/jetpack"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://developer.android.com/images/social/android-developers.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Chrome 웹브라우저",
+            "htmlTitle": "Chrome 웹브라우저",
+            "link": "https://www.google.com/intl/ko/chrome/",
+            "displayLink": "www.google.com",
+            "snippet": "Google의 강력한 도구와 기능을 활용한 탐색. Chrome에서는 Gmail, Google Pay, Google 어시스턴트와 같은 Google 앱을 사용할 수 있으므로 생산성을 높이고 브라우저를 ...",
+            "htmlSnippet": "<b>Google</b>의 강력한 도구와 기능을 활용한 탐색. Chrome에서는 Gmail, <b>Google</b> Pay, <b>Google</b> 어시스턴트와 같은 <b>Google</b> 앱을 사용할 수 있으므로 생산성을 높이고 브라우저를&nbsp;...",
+            "cacheId": "3_J0pVqPzaEJ",
+            "formattedUrl": "https://www.google.com/intl/ko/chrome/",
+            "htmlFormattedUrl": "https://www.<b>google</b>.com/intl/ko/chrome/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKOXFpJVF_Xz2cq8bSojiNKHJUoBzHsj8n3Sdsy1dQnCNO135b0qOVTw",
+                        "width": "48",
+                        "height": "48"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-config": "/chrome/static/images/favicons/browserconfig.xml",
+                        "og:image": "https://www.google.com/chrome/static/images/chrome-logo.svg",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Chrome 웹브라우저",
+                        "og:type": "website",
+                        "twitter:url": "https://www.google.com/intl/ko_ALL/chrome/",
+                        "og:title": "Chrome 웹브라우저",
+                        "og:description": "더욱 스마트해진 Google로 더 간편하고 안전하고 빠르게.",
+                        "twitter:image": "https://www.google.com/chrome/static/images/chrome-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "더욱 스마트해진 Google로 더 간편하고 안전하고 빠르게.",
+                        "og:locale": "ko_KR",
+                        "og:url": "https://www.google.com/intl/ko_ALL/chrome/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.google.com/chrome/static/images/chrome-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Google",
+            "htmlTitle": "<b>Google</b>",
+            "link": "https://www.google.com/setprefdomain?prefdom=UA&prev=http://www.google.com.ua/&sig=K_A-1t7Zmc3W8UQh6EZQVaikTrtcI%3D",
+            "displayLink": "www.google.com",
+            "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking ...",
+            "htmlSnippet": "<b>Search</b> the world&#39;s information, including webpages, images, videos and more. <b>Google</b> has many special features to help you find exactly what you&#39;re looking&nbsp;...",
+            "cacheId": "Cj8iP3jtbNYJ",
+            "formattedUrl": "https://www.google.com/setprefdomain?prefdom=UA...google...",
+            "htmlFormattedUrl": "https://www.<b>google</b>.com/setprefdomain?prefdom=UA...<b>google</b>...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS7xVTY_TD8T6FjjnhzJehjH3e4-h4q15OVsI3jNvplvBM2j6r6RTUNCM",
+                        "width": "320",
+                        "height": "112"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "viewport": "width=device-width,minimum-scale=1.0",
+                        "google": "notranslate",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.google.com.ua/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png"
+                    }
+                ]
+            }
+        }
+    ]
+}
