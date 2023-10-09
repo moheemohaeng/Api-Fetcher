@@ -1,0 +1,21 @@
+{
+    "id": 968047827668307978,
+    "created_at": {
+        "$date": "2022-04-25T07:16:27.575Z"
+    },
+    "author": {
+        "id": 422993585109991434,
+        "name": "데앵제앵",
+        "discriminator": "0744",
+        "display_name": "데앵제앵",
+        "is_bot": false
+    },
+    "content": "노블을써도",
+    "reference": {
+        "jump_url": "https://discord.com/channels/667739621492260864/667739621492260867/968047827668307978",
+        "guild_id": 667739621492260864,
+        "channel_id": 667739621492260867
+    },
+    "embeds": [],
+    "attachments": []
+}

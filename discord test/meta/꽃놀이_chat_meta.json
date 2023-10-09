@@ -1,0 +1,28 @@
+{
+    "python_version": "Python 3.10.2",
+    "discord.py_version": "1.7.3",
+    "private_token": "NDIyOTkzNTg1MTA5OTkxNDM0.YiWP8w.3ee46y17xFEKQAZqD4GZKNn2uyk",
+    "from_date": {
+        "$date": "2022-04-10T12:01:01Z"
+    },
+    "to_date": {
+        "$date": "2022-06-04T04:04:04Z"
+    },
+    "guild": {
+        "id": 667739621492260864,
+        "name": "꽃놀이",
+        "created_at": {
+            "$date": "2020-01-17T14:38:51.766Z"
+        },
+        "description": null,
+        "region": "deprecated",
+        "member_count": 84
+    },
+    "text_channel": {
+        "id": 667739621492260867,
+        "name": "chat",
+        "created_at": {
+            "$date": "2020-01-17T14:38:51.766Z"
+        }
+    }
+}

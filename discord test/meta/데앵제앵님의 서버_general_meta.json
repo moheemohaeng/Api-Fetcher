@@ -1,0 +1,28 @@
+{
+    "python_version": "Python 3.10.2",
+    "discord.py_version": "1.7.3",
+    "private_token": "NDIyOTkzNTg1MTA5OTkxNDM0.YiWP8w.3ee46y17xFEKQAZqD4GZKNn2uyk",
+    "from_date": {
+        "$date": "2022-04-10T12:01:01Z"
+    },
+    "to_date": {
+        "$date": "2022-06-04T04:04:04Z"
+    },
+    "guild": {
+        "id": 950258567825485924,
+        "name": "데앵제앵님의 서버",
+        "created_at": {
+            "$date": "2022-03-07T05:08:17.520Z"
+        },
+        "description": null,
+        "region": "deprecated",
+        "member_count": 3
+    },
+    "text_channel": {
+        "id": 950258567825485928,
+        "name": "general",
+        "created_at": {
+            "$date": "2022-03-07T05:08:17.520Z"
+        }
+    }
+}

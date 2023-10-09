@@ -1,0 +1,21 @@
+{
+    "id": 968047779798720543,
+    "created_at": {
+        "$date": "2022-04-25T07:16:16.162Z"
+    },
+    "author": {
+        "id": 422993585109991434,
+        "name": "데앵제앵",
+        "discriminator": "0744",
+        "display_name": "데앵제앵",
+        "is_bot": false
+    },
+    "content": "빌려서쓸만한거",
+    "reference": {
+        "jump_url": "https://discord.com/channels/667739621492260864/667739621492260867/968047779798720543",
+        "guild_id": 667739621492260864,
+        "channel_id": 667739621492260867
+    },
+    "embeds": [],
+    "attachments": []
+}
